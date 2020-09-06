@@ -1,0 +1,3 @@
+https://pyautogui.readthedocs.org/en/latest
+
+https://automatetheboringstuff.com/chapter17

@@ -1,0 +1,5 @@
+https://automatetheboringstuff.com/chapter16
+
+https://imapclient.readthedocs.org
+http://www.magiksys.net/pyzmail
+https://automatetheboringstuff.com/chapter16
